@@ -1,0 +1,25 @@
+<html>
+<title>table</title>
+<body style="font-size:20px">
+<p style="text-align:center">table practice</p>
+<table align="center" border="1" bgcolor="blue">
+<th align="center">my first</th>
+<caption>first table</caption>
+<tr>
+<td align="center" colspan="2">first row and first column</td>
+<td>first row and second column</td>
+<td>first row and third column</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">second row and first column</td>
+<td>second row and second column</td>
+<td>second row and third column</td>
+</tr>
+<tr>
+<td>third row and first column</td>
+<td>third row and second column</td>
+<td>third row and third column</td>
+</tr>
+</table>
+</body>
+</html>
