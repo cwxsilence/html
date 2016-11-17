@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>image test</title>
+</head>
+<body background="./qwe.gif">
+<p style="font-size:50px">let's have an example<img src="./julizi.png" width="80" height="80"></p>
+<p>align top<img src="./julizi.png" align="top" width="80" height="80"></p>
+<p>align middle<img src="./julizi.png" align="middle"></p>
+<p>align bottom<img src="./julizi.png" align="bottom"></p>
+<p>tag the li zi</p>
+<p>align left<img src="./julizi.png" align="left" width="80" height="80" usemap="#lizi"/></p>
+<map name="lizi">
+<area shape="rect" coords="50,10,100,60" href="img.html" target="_blank">
+</map>
+</body>
+</html>
